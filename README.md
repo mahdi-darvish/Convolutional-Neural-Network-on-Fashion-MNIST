@@ -35,6 +35,15 @@ I used a custom CNN using the Sequential model and optimized it with Adam's opti
 The model trained on three epochs and got over 80% accuracy, and you may also train with more epochs ( e.g., 30) and get over 95% accuracy.
 Loss and accuracy plots are shown below.
 
+<p align="center">
+  <img src="https://github.com/mahdi-darvish/Convolutional-Neural-Network-on-Fashion-MNIST/blob/main/Loss.PNG" />
+</p>
+
+
 ## Error Display
 
 I used a custom function to show some of the errors when the model couldn't find the right answer and illustrated the model prediction and real value.
+
+<p align="center">
+  <img src="https://github.com/mahdi-darvish/Convolutional-Neural-Network-on-Fashion-MNIST/blob/main/Errors.PNG" />
+</p>
